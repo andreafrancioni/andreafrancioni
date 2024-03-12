@@ -1,10 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40F71D&center=true&vCenter=true&random=false&width=435&lines=Whassup!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrea+Francioni;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreafrancioni&label=Profile%20views&color=0e75b6&style=flat" alt="andreafrancioni" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40F71D&center=true&vCenter=true&random=false&width=435&lines=Whassup!%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrea+Francioni;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=andreafrancioni&label=Profile%20views&color=0e75b6&style=flat" alt="andreafrancioni" /> </p>
 
 <div align="center">
 - 🔭 I’m currently working on **personal project**
