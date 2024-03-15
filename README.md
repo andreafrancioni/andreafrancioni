@@ -8,7 +8,7 @@
 <div align="center">
 - 🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning **NativeScript**
+- 🌱 I’m currently learning **IonicVue**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/andreafrancioni?tab=repositories)
 
