@@ -32,7 +32,7 @@
 <h2 align="center">🧬 Tech Skills 🧬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,nodejs,php,laravel,mysql, ">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,nodejs,php,laravel,mysql ">
     <img src="https://skillicons.dev/icons?i=vite,npm,webpack,git,vscode,github,discord,postman" /><br>
 </div>
  </div>
