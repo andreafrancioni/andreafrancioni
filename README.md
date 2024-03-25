@@ -6,15 +6,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreafrancioni&label=Profile%20views&color=0e75b6&style=flat" alt="andreafrancioni" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on personal project
+🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning **IonicVue**
+🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/andreafrancioni?tab=repositories)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/andreafrancioni?tab=repositories)
 
-- 💬 Ask me about **collaborating or simply exchanging ideas**
+💬 Ask me about **collaborating or simply exchanging ideas**
 
-- ⚡ Fun fact **Pac Man was designed to run indefinitely, so not even the creators knew how it ended.**
+⚡ Fun fact **Pac Man was designed to run indefinitely, so not even the creators knew how it ended.**
  </div>
  
 <div align="center"> 
